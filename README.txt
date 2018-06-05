@@ -1,4 +1,4 @@
-# İlk olarak grubun sayfalarını oluşturmaya çalıştık.
-# index sayfasından sonra html sayfasını paylaştık.
-# 5 tane kavram için olan html sayfalarını herkes bir tanesi olmak üzere yaptılk.
-# Githuba atmada sorun yaşadığımız için bu şekilde attık :(
+# Ä°lk olarak grubun sayfalarÄ±nÄ± oluÅŸturmaya Ã§alÄ±ÅŸtÄ±k.
+# index sayfasÄ±ndan sonra html sayfasÄ±nÄ± paylaÅŸtÄ±k.
+# 5 tane kavram iÃ§in olan html sayfalarÄ±nÄ± herkes bir tanesi olmak Ã¼zere yaptÄ±ldÄ±.
+#
