@@ -2,3 +2,4 @@
 # index sayfasından sonra html sayfasını paylaştık.
 # 5 tane kavram için olan html sayfalarını herkes bir tanesi olmak üzere yaptıldı.
 
+#ödevlerimizi cd lere kopyalayıp teslime hazır hale getirdik.
